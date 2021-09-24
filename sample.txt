@@ -1,3 +1,1 @@
-This is a sample file.
-Hello All.
-Thinknyx Technologies LLP
+Welcome to the Day 5 of Ansible and Jenkins Workshop
